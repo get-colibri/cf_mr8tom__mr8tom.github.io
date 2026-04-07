@@ -1,16 +1,16 @@
 <div align="center">
   Jake is a tool that allows you to effortlessly create your one-link website and deploy it on your GitHub account.
-  <br />
-  <br />
+  <br>&#8203;
+  <br>&#8203;
   <a href="https://thevahidal.github.io/jake">Demo</a>
-  <br />
-  <br />
+  <br>&#8203;
+  <br>&#8203;
   <a href="https://thevahidal.github.io/jake">
       <img src='docs/demo.png' style="">
   </a>
 </div>
 
-## Usage
+1. Usage
 
 ### 1. Create a Repository
 
