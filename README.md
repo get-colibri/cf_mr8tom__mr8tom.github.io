@@ -19,6 +19,12 @@ To get started, follow these steps to create a new repository using this templat
 1. Click [here](https://github.com/new?template_name=jake&template_owner=thevahidal) to create a new repository.
 2. Choose a name for your repository. If you want your website to be deployed at `<yourusername>.github.io`, name your repository `<yourusername>.github.io`. Alternatively, you can choose any other name, such as `that-other-name`, which will result in your website being deployed at `<yourusername>.github.io/that-other-name/`.
 
+### 
+
+### 
+
+### 
+
 ### 2. Enable GitHub Pages
 
 After creating the repository, you need to enable GitHub Pages. Follow these steps:
